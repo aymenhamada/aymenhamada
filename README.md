@@ -4,6 +4,15 @@
 
 ## I'm a coding enthusiast currently in 3rd year of a Master degree in Software Engineering at EPITECH.
 
+if you're visiting my profile right now, then you're probably a recruiter,  or a CEO (or a weirdo stalking my code) with big disruptive dreams. Either way, welcome 👋
+
+I'm Aymen, a young Developer (or Rockstar Programmer if you're a recruiter) who's passionate about start-ups.
+To keep things short: I'm a freelancer, I write code, and I'm pretty good at it.
+
+So, if you have a revolutionary app idea and want to make it a reality, I'd love to hear about that 📩
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][hackerrank]
+[https://www.codewars.com/users/aymenhamada][codewars]
 
 ### Connect with me:
 
@@ -45,3 +54,5 @@
 
 [website]: https://aymenhamada.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/aymen-hamada/
+[hackerrank]: https://www.hackerrank.com/aymen_hamada/
+[codewars]: https://www.codewars.com/users/aymenhamada/
