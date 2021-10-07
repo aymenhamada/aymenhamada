@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aymen Hamada][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aymenhamada.github.io/Portfolio/)
+---
 
 ## I'm a coding enthusiast currently in 3rd year of a Master degree in Software Engineering at EPITECH.
 
