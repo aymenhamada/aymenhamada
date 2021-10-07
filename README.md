@@ -11,8 +11,8 @@ To keep things short: I'm a freelancer, I write code, and I'm pretty good at it.
 
 So, if you have a revolutionary app idea and want to make it a reality, I'd love to hear about that 📩
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][hackerrank]
-[https://www.codewars.com/users/aymenhamada][codewars]
+[<img align="left" alt="Hackerrank" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"/>][hackerrank]
+[<img align="left" alt="Code wars" width="26px" src="https://camo.githubusercontent.com/cb4c166d570c91abfa45e548c281b2d374faa4213a3690ad880a76098ce91fc4/68747470733a2f2f73656375726573657276657263646e2e6e65742f3136302e3135332e3133382e35332f3631302e3334312e6d7966747075706c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30392f636f6465776172732e706e67"/>][codewars]
 
 ### Connect with me:
 
