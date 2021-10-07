@@ -40,7 +40,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aymen Hamada GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aymenamada&show_icons=true&hide_border=true" />
+  [![Aymen Hamada GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenhamada)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
