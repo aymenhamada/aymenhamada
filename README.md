@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Aymen Hamada GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenhamada&show_icons=true&theme=highconstrast)](https://github.com/anuraghazra/github-readme-stats)
+  [![Aymen Hamada GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenhamada&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenhamada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
