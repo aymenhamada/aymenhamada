@@ -47,7 +47,6 @@ So, if you have a revolutionary app idea and want to make it a reality, I'd love
 
 <br />
 <br />
-
 ---
 
 
