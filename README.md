@@ -37,14 +37,11 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   [![Aymen Hamada GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenhamada&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenhamada&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
 [website]: https://aymenhamada.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/aymen-hamada/
