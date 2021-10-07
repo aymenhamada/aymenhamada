@@ -52,7 +52,7 @@ So, if you have a revolutionary app idea and want to make it a reality, I'd love
 
 
 
-  [![Aymen Hamada GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenhamada&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Aymen Hamada GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenhamada&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenhamada&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
