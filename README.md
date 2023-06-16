@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a coding enthusiast currently in 3rd year of a Master degree in Software Engineering at EPITECH.
+## I'm a coding enthusiast currently in 4th year of a Master degree in Software Engineering at EPITECH.
 
 if you're visiting my profile right now, then you're probably a recruiter,  or a CEO (or a weirdo stalking my code) with big disruptive dreams. Either way, welcome 👋
 
